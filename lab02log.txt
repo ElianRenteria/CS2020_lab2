@@ -1,0 +1,36 @@
+Script started on 2021-09-02 21:38:41-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="81" LINES="24"]
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab02[006799085@csusb.edu@jb359-3 Lab02]$ ./lab02
+
+Enter the capacity of dynamic array: 15
+
+
+Enter the student id: ^[[A^[[A^[[B            1234
+
+Enter the student name: Elian
+
+
+Enter the student id: 1256
+
+Enter the student name: David
+
+
+Enter the student id: 1284
+
+Enter the student name: Rosario
+
+
+Enter the student id: 1233  05
+
+Enter the student name: Angela
+
+
+Enter the student id: 0
+
+The students are: 
+1234    Elian
+1256    David
+1284    Rosario
+1205    Angela]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab02[006799085@csusb.edu@jb359-3 Lab02]$ exit
+exit
+
+Script done on 2021-09-02 21:39:26-07:00 [COMMAND_EXIT_CODE="0"]
